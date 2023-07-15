@@ -34,9 +34,10 @@ $ python calculator.py
 |  __/| |_| | ||  __/ |   
 |_|    \__,_|\__\___|_|   
 
+
 What is the first number? 5
 +
-- 
+-
 *
 /
 
