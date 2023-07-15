@@ -26,20 +26,9 @@ View the calculated result displayed on the screen.
 
 Choose whether to continue calculating or exit the program when prompted.
 
-Example
-$ python calculator.py
- ____        _            
-|  _ \ _   _| |_ ___ _ __ 
-| |_) | | | | __/ _ \ '__|
-|  __/| |_| | ||  __/ |   
-|_|    \__,_|\__\___|_|   
-
 
 What is the first number? 5
-+
--
-*
-/
++ - * /
 
 Pick an operation: *
 
