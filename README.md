@@ -1,11 +1,11 @@
-## Calculator Program
+# Calculator Program
 The Calculator Program is a Python script that allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division. The program provides a command-line interface where users can enter numbers and select operations to perform calculations.
 
-## Features
-# Addition: Perform addition of two numbers.
-# Subtraction: Perform subtraction of two numbers.
-# Multiplication: Perform multiplication of two numbers.
-# Division: Perform division of two numbers.
+# Features
+Addition: Perform the addition of two numbers.
+Subtraction: Perform subtraction of two numbers.
+Multiplication: Perform the multiplication of two numbers.
+Division: Perform the division of two numbers.
 
 ## Requirement
 Python 3.x
